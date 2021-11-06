@@ -26,7 +26,9 @@ namespace Aircompany
         public static void Main()
         {
             Airport airport = new Airport(planes);
+
             Airport militaryAirport = new Airport(airport.GetMilitaryPlanes());
+
             Airport passengerAirport = new Airport(airport.GetPassengersPlanes());
             Console.WriteLine(militaryAirport
                               .SortByMaxDistance()

@@ -1,0 +1,13 @@
+D:\aircompany\Net\AircompanyTests\bin\Release\AircompanyTests.dll
+D:\aircompany\Net\AircompanyTests\bin\Release\AircompanyTests.pdb
+D:\aircompany\Net\AircompanyTests\bin\Release\Aircompany.exe
+D:\aircompany\Net\AircompanyTests\bin\Release\nunit.framework.dll
+D:\aircompany\Net\AircompanyTests\bin\Release\Aircompany.pdb
+D:\aircompany\Net\AircompanyTests\bin\Release\Aircompany.exe.config
+D:\aircompany\Net\AircompanyTests\bin\Release\nunit.framework.pdb
+D:\aircompany\Net\AircompanyTests\bin\Release\nunit.framework.xml
+D:\aircompany\Net\AircompanyTests\obj\Release\AircompanyTests.csprojAssemblyReference.cache
+D:\aircompany\Net\AircompanyTests\obj\Release\AircompanyTests.csproj.CoreCompileInputs.cache
+D:\aircompany\Net\AircompanyTests\obj\Release\AircompanyTests.csproj.CopyComplete
+D:\aircompany\Net\AircompanyTests\obj\Release\AircompanyTests.dll
+D:\aircompany\Net\AircompanyTests\obj\Release\AircompanyTests.pdb

@@ -33,7 +33,7 @@ namespace AircompanyTests.Tests
         public void AirportHasMilitaryTransportPlane()
         {
             Airport airport = new Airport(planes);
-            Assert.IsNotNull(airport.GetTransportMilitaryPlanes().ToList().Find(p => p.MilitaryType == MilitaryType.Transport));
+            Assert.IsNotNull(airport.GetMilitaryPlanes().ToList().Find(p => p.MilitaryType == MilitaryType.Transport));
         }
 
         [Test]
@@ -47,7 +47,7 @@ namespace AircompanyTests.Tests
         public void СompareSortByMaxLoadCapacityWithPlaneListSortedByMaxLoadCapacity()
         {
             Airport airport = new Airport(planes);
-            List<Plane> planesSortedByMaxLoadCapacity = airport.SortByMaxLoadCapacity().Planes.ToList();
+            List<Plane> planesSortedByMaxLoadCapacity = airport.SortByMaxLoadCapacity().Planes;
             List<Plane> expectedSort = airport.Planes.OrderBy(p => p.MaxLoadCapacity).ToList();
             Assert.IsTrue(expectedSort.SequenceEqual(planesSortedByMaxLoadCapacity));
         }
