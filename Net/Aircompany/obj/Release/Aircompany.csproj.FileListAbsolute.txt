@@ -1,0 +1,6 @@
+D:\aircompany\Net\Aircompany\bin\Release\Aircompany.exe.config
+D:\aircompany\Net\Aircompany\bin\Release\Aircompany.exe
+D:\aircompany\Net\Aircompany\bin\Release\Aircompany.pdb
+D:\aircompany\Net\Aircompany\obj\Release\Aircompany.csproj.CoreCompileInputs.cache
+D:\aircompany\Net\Aircompany\obj\Release\Aircompany.exe
+D:\aircompany\Net\Aircompany\obj\Release\Aircompany.pdb
